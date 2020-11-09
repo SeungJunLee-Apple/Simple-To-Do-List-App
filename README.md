@@ -2,8 +2,12 @@
 <Built on Xcode 12.1 using swift 5.0>
 
 APP PREVIEW
-![alt text](https://user-images.githubusercontent.com/60959924/98496724-a4741d80-2285-11eb-8b26-137f1abda441.png)
-![alt text](https://user-images.githubusercontent.com/60959924/98496729-a5a54a80-2285-11eb-9bc4-401af4971e13.png)
+1. Create a To-DO List
+![alt text](https://user-images.githubusercontent.com/60959924/98497205-b5715e80-2286-11eb-954f-ad6ad68a2176.png)
+2. Maek the some tasks as done
+![alt text](https://user-images.githubusercontent.com/60959924/98497199-b3a79b00-2286-11eb-98fb-ad5781beedd4.png)
+3. Check the remaining task
+[alt text](https://user-images.githubusercontent.com/60959924/98497202-b4d8c800-2286-11eb-818e-ea803c899053.png)
 
 1. ABOUT THIS PROJECT
 
