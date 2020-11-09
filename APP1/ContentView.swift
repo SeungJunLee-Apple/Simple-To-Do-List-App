@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  School18
+//  App1
 //
 //  Created by SeungJun Lee on 11/8/20.
 //
