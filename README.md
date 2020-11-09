@@ -3,10 +3,7 @@
 
 APP PREVIEW
 ![alt text](https://user-images.githubusercontent.com/60959924/98496724-a4741d80-2285-11eb-8b26-137f1abda441.png)
-
-
-
-
+![alt text](https://user-images.githubusercontent.com/60959924/98496729-a5a54a80-2285-11eb-9bc4-401af4971e13.png)
 
 1. ABOUT THIS PROJECT
 
