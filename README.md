@@ -3,9 +3,6 @@
 
 APP PREVIEW
 
-![Screenshot](Simulator Screen Shot - iPhone 8 Plus - 2020-11-08 at 15.41.48.png)
-![alt text](https://github.com/[
-SeungJunLee-Apple]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 
 
@@ -32,7 +29,5 @@ You will download all swift files for the project. After downloading all files y
 
 If you find a bug, or wanna reuqst a new 
 feature, or if you need any help with this project leave a comment to this project. I will solve the issue ASAP I can
-
-![alt text](https://ibb.co/GHnnfGZ)
 
 
