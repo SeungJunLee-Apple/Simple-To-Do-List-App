@@ -4,6 +4,9 @@
 APP PREVIEW
 
 ![Screenshot](Simulator Screen Shot - iPhone 8 Plus - 2020-11-08 at 15.41.48.png)
+![alt text](https://github.com/[
+SeungJunLee-Apple]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 
 
 1. ABOUT THIS PROJECT
