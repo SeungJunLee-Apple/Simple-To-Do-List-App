@@ -2,7 +2,7 @@
 <Built on Xcode 12.1 using swift 5.0>
 
 APP PREVIEW
-
+https://user-images.githubusercontent.com/60959924/98496724-a4741d80-2285-11eb-8b26-137f1abda441.png
 
 
 
