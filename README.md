@@ -7,7 +7,7 @@ APP PREVIEW
 2. Mark the some tasks as done
 ![alt text](https://user-images.githubusercontent.com/60959924/98497199-b3a79b00-2286-11eb-98fb-ad5781beedd4.png)
 3. Check the remaining task
-[alt text](https://user-images.githubusercontent.com/60959924/98497202-b4d8c800-2286-11eb-818e-ea803c899053.png)
+![alt text](https://user-images.githubusercontent.com/60959924/98497202-b4d8c800-2286-11eb-818e-ea803c899053.png)
 
 1. ABOUT THIS PROJECT
 
