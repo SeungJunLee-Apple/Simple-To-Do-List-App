@@ -4,7 +4,7 @@
 APP PREVIEW
 1. Create a To-DO List
 ![alt text](https://user-images.githubusercontent.com/60959924/98497205-b5715e80-2286-11eb-954f-ad6ad68a2176.png)
-2. Maek the some tasks as done
+2. Mark the some tasks as done
 ![alt text](https://user-images.githubusercontent.com/60959924/98497199-b3a79b00-2286-11eb-98fb-ad5781beedd4.png)
 3. Check the remaining task
 [alt text](https://user-images.githubusercontent.com/60959924/98497202-b4d8c800-2286-11eb-818e-ea803c899053.png)
