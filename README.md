@@ -1,6 +1,11 @@
 # Simple To-Do List Application using Swift and SwfitUI
 <Built on Xcode 12.1 using swift 5.0>
 
+APP PREVIEW
+
+![Screenshot](Simulator Screen Shot - iPhone 8 Plus - 2020-11-08 at 15.41.48.png)
+
+
 1. ABOUT THIS PROJECT
 
 This app is a simple To-Do List application. You can add a new task by typing the name of the task in the 'tex
